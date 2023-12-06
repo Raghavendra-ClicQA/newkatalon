@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SEND GIFT CARD</name>
+   <tag></tag>
+   <elementGuidId>b028db47-b943-42f7-acfa-66418d0f8cad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.styles-buy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mountRoot']/div/div/div/div[2]/a/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>eac6e98f-db76-43b9-b04f-69bc5a8c5f43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles-buy</value>
+      <webElementGuid>9cfb39eb-ed1a-4953-84a3-e3679297c637</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SEND GIFT CARD</value>
+      <webElementGuid>cbd07712-e013-4ed1-93e0-897ae82681fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mountRoot&quot;)/div[@class=&quot;index-base&quot;]/div[@class=&quot;styles-page&quot;]/div[@class=&quot;styles-card&quot;]/div[2]/a[1]/button[@class=&quot;styles-buy&quot;]</value>
+      <webElementGuid>916a0c66-da0e-4df3-9242-4aa076923d76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mountRoot']/div/div/div/div[2]/a/button</value>
+      <webElementGuid>f2df36eb-9ec2-4683-b7ca-486cc9838d75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Express your love by sending Myntra Gift Card'])[3]/following::button[7]</value>
+      <webElementGuid>d095cfbf-7eec-41dc-9b64-a5a5edc31cc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WISH YOUR LOVED ONE'])[3]/following::button[7]</value>
+      <webElementGuid>890acc98-5edd-49d0-be2c-5f0e38f6402e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse Gift Cards By Occasions'])[1]/preceding::button[1]</value>
+      <webElementGuid>57ed2636-dd6c-45b4-822f-168f41fdd25e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wedding'])[1]/preceding::button[1]</value>
+      <webElementGuid>fbc2a22a-8067-4945-a482-65dd84dfdaea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SEND GIFT CARD']/parent::*</value>
+      <webElementGuid>15798a3b-cd9a-429f-8775-f2334789b6f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>7028eb1b-56ce-4586-9909-c2e65701e1a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'SEND GIFT CARD' or . = 'SEND GIFT CARD')]</value>
+      <webElementGuid>ad741ff3-443c-4204-8e5b-6bc6b458f604</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

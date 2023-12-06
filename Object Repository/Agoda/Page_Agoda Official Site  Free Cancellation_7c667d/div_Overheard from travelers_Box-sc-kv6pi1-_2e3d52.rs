@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Overheard from travelers_Box-sc-kv6pi1-_2e3d52</name>
+   <tag></tag>
+   <elementGuidId>9e183947-6012-426d-b15c-a68e5c972b13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='activities-search-autocomplete']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Box-sc-kv6pi1-0.hRUYUu.IconBox__wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>29453ef2-fbf6-481d-b50f-c3d58ca693dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Box-sc-kv6pi1-0 hRUYUu IconBox__wrapper</value>
+      <webElementGuid>28318d96-84bb-43c4-923c-d873aeafa173</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;activities-search-autocomplete&quot;)/div[@class=&quot;Box-sc-kv6pi1-0 hRUYUu IconBox__wrapper&quot;]</value>
+      <webElementGuid>166b2439-b27d-4fcc-80d8-ba12a38b0fba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='activities-search-autocomplete']/div</value>
+      <webElementGuid>f1b3303b-9775-4c22-8069-d15a104baa29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airport transfer'])[2]/following::div[10]</value>
+      <webElementGuid>6f577781-717b-434a-ad8c-01b1f756f6f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activities'])[2]/following::div[14]</value>
+      <webElementGuid>ef23ea22-6f25-4776-860a-081b26998840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEARCH'])[1]/preceding::div[3]</value>
+      <webElementGuid>34215a85-7dd3-4339-a09a-991afcead995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top destinations in India'])[1]/preceding::div[7]</value>
+      <webElementGuid>f6dbfe7c-b465-45af-b61f-74452bcce37a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>87b09a96-80cd-44b8-a7e9-8b95e45dd8d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overheard from travelers'])[1]/following::div[11]</value>
+      <webElementGuid>3a744d28-5e45-4be3-b55d-b5cf2c9583de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bungalows'])[1]/following::div[13]</value>
+      <webElementGuid>55b2bd10-5b9d-4dd6-be9d-78aae15be4b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coupon successfully collected!'])[1]/preceding::div[1]</value>
+      <webElementGuid>c5d19cd8-97c4-4354-ac13-6a71c818d63c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Got it!'])[1]/preceding::div[3]</value>
+      <webElementGuid>e684b887-cb9e-48d7-919f-bbc460eb1861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div[2]/div/div/div</value>
+      <webElementGuid>dfb2b69d-fc1b-4b82-b0ac-4e2ea78c798c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

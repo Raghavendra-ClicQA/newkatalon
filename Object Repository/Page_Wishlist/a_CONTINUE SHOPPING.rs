@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CONTINUE SHOPPING</name>
+   <tag></tag>
+   <elementGuidId>d4646703-8116-4393-905f-df22e6265a0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.wishlistEmpty-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mountRoot']/div/div/div/div/div[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>719b8cad-6e2f-4772-8ec8-1feb8c9bda4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/</value>
+      <webElementGuid>696ad3ea-ea81-41ca-9f43-4fd262d208f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wishlistEmpty-button</value>
+      <webElementGuid>2ed18e21-ce86-469f-872a-632d2058da41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONTINUE SHOPPING</value>
+      <webElementGuid>977f20e1-36c7-4153-8a2b-e8f16cbdd5bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mountRoot&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;wishlistEmpty-container&quot;]/div[4]/a[@class=&quot;wishlistEmpty-button&quot;]</value>
+      <webElementGuid>f25ce059-7db5-496b-91be-29ef76966688</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mountRoot']/div/div/div/div/div[4]/a</value>
+      <webElementGuid>1f56c6e6-2e23-481b-9d6b-9884116cf7de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'CONTINUE SHOPPING')]</value>
+      <webElementGuid>4aeea5a2-d40a-48cf-a6c0-84373a408959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add items that you like to your wishlist. Review them anytime and easily move them to the bag.'])[1]/following::a[1]</value>
+      <webElementGuid>1401e88b-104d-4adb-a1fb-8e12e1b01ebd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YOUR WISHLIST IS EMPTY'])[1]/following::a[1]</value>
+      <webElementGuid>abd7ba81-30a9-4042-8542-7fec1c4cda0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ONLINE SHOPPING'])[1]/preceding::a[1]</value>
+      <webElementGuid>f2395c8c-62bd-48c9-80b4-1a03c4c5b20d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CONTINUE SHOPPING']/parent::*</value>
+      <webElementGuid>7924b435-b57b-4582-a8ea-9b7411ae943d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/')])[381]</value>
+      <webElementGuid>867d89b6-aa54-487d-8734-9b4e59f05dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a</value>
+      <webElementGuid>9491e35a-9be3-415f-ae32-ce7436d8c8e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/' and (text() = 'CONTINUE SHOPPING' or . = 'CONTINUE SHOPPING')]</value>
+      <webElementGuid>684192c4-14a9-4589-9434-f1fbbc65d1a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

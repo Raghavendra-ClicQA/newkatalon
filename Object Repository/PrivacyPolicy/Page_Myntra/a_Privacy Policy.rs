@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Privacy Policy</name>
+   <tag></tag>
+   <elementGuidId>5dcd9dd0-efa8-43b8-8ad1-aaa50eedc938</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.midLinks > a:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='reactPageContent']/div/div/div[2]/div[2]/div[2]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4239202a-93c8-4547-928e-77c5b59e0d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/privacypolicy</value>
+      <webElementGuid>fe0b5e52-bbad-4f6b-8542-8e3bf1e52367</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Privacy Policy</value>
+      <webElementGuid>09f2fc12-d32b-489e-8342-2d7a99e435a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reactPageContent&quot;)/div[@class=&quot;authPage&quot;]/div[1]/div[@class=&quot;signInContainer&quot;]/div[@class=&quot;mobileInputContainer&quot;]/div[@class=&quot;midLinks&quot;]/a[2]</value>
+      <webElementGuid>5ad1de9f-66a0-4b7d-a76e-3d7365184e03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='reactPageContent']/div/div/div[2]/div[2]/div[2]/a[2]</value>
+      <webElementGuid>49754fd7-91e2-4957-84bd-4e383a6cea45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Privacy Policy')]</value>
+      <webElementGuid>167e8fa5-481f-4a00-b7b5-b94424c540b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Use'])[1]/following::a[1]</value>
+      <webElementGuid>12de834d-0a6f-4507-9bb5-2faa5d45eb6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUE'])[1]/preceding::a[1]</value>
+      <webElementGuid>3041f76a-150d-411e-ac4e-fa71c1a40b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Privacy Policy']/parent::*</value>
+      <webElementGuid>be67b6db-4613-4b80-9bc7-2b35ed66a6ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/privacypolicy')]</value>
+      <webElementGuid>b2cac292-8cbf-4289-9018-61e9cda40cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]</value>
+      <webElementGuid>31417059-935e-4a56-90a4-922a9ebdd01e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/privacypolicy' and (text() = 'Privacy Policy' or . = 'Privacy Policy')]</value>
+      <webElementGuid>61644eb6-37ac-456c-8baa-07bf4b8ccfee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

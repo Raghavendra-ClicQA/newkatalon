@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Forgot password</name>
+   <tag></tag>
+   <elementGuidId>2dec2396-edcd-43a8-9681-c3f47650b48a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div[2]/form/div[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>30b4a2f3-5591-4d09-9157-36693e431f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>phone-forget-password</value>
+      <webElementGuid>59c2274a-ec3c-4333-839c-eca7fe07faed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-element-name</name>
+      <type>Main</type>
+      <value>universal-login-forgot-password-phone-link</value>
+      <webElementGuid>0be3db60-7a45-48a4-87be-b7fc204755b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-fzoyTs qPKjW</value>
+      <webElementGuid>fc223c27-1dd7-4ca4-be51-fa8058055226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forgot password?</value>
+      <webElementGuid>daa29a74-3f0f-4a57-8115-46a6608a94ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;sc-AxgMl mXdik fade-in-enter-done&quot;]/div[@class=&quot;sc-AxgMl gfGIVK&quot;]/div[@class=&quot;sc-AxgMl bdRmbW&quot;]/div[@class=&quot;sc-AxhUy jtMJCi&quot;]/div[@class=&quot;sc-AxhCb jIcqRC fade-enter-done&quot;]/form[1]/div[@class=&quot;sc-AxgMl bOirrJ&quot;]/a[@class=&quot;sc-fzoyTs qPKjW&quot;]</value>
+      <webElementGuid>281ab6aa-c157-4ada-973a-282adefe54d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Agoda/Page_/iframe</value>
+      <webElementGuid>c5bc709b-ca3a-47c9-9974-2ad94fc02e93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div[2]/form/div[2]/a[2]</value>
+      <webElementGuid>9b606b9b-535a-437d-9d2c-263cae8c158b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create account'])[1]/following::a[1]</value>
+      <webElementGuid>c7371a1a-ee81-4cb0-97a6-dfd8b9504c0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[2]/following::a[2]</value>
+      <webElementGuid>f901c103-1d2d-43ad-afaa-eda21bc02c3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or sign in with'])[1]/preceding::a[1]</value>
+      <webElementGuid>586aad07-f67f-43ec-aaa2-e5682686f41f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>52134e83-7e66-4e58-b575-cdb808a59438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Forgot password?' or . = 'Forgot password?')]</value>
+      <webElementGuid>07c40e2d-6384-4782-beb2-8b07fce48394</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

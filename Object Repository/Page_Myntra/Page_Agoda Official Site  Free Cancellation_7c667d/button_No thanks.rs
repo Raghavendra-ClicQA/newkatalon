@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_No thanks</name>
+   <tag></tag>
+   <elementGuidId>46b1cb96-ec65-45d7-8d7a-44031247152e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>34b9915e-685e-457e-b2e0-661493ec5b7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ab-message-button</value>
+      <webElementGuid>62f99cf4-2b55-4444-bbb9-8dc763bab750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>24441304-735b-4fe3-8eaf-b375b10b3056</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No thanks</value>
+      <webElementGuid>e860b560-b031-498f-b60c-b9a4467a2846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;chrome no-js&quot;]/body[@class=&quot;newhome desktop JTBFUN-1062 ltr themed theme-agoda window-loaded ab-pause-scrolling&quot;]/div[@class=&quot;ab-iam-root v3 ab-animate-in ab-animate-out ab-effect-modal ab-show&quot;]/div[@class=&quot;ab-in-app-message  ab-background ab-modal-interactions ab-modal ab-centered&quot;]/div[@class=&quot;ab-message-buttons&quot;]/button[@class=&quot;ab-message-button&quot;]</value>
+      <webElementGuid>c5ee7cce-ac3d-4b0d-bba0-9efaa7fd888a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[10]</value>
+      <webElementGuid>33410efb-b633-4ae1-b318-fd51e0081c29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Claim my coupon'])[1]/following::button[1]</value>
+      <webElementGuid>b2079907-321f-4f55-8516-eca970e4f052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No thanks']/parent::*</value>
+      <webElementGuid>0470e55f-16d7-43d5-9bef-e88b6848d2d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>79ce0c59-3866-41a2-8683-3fff875a605c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'No thanks' or . = 'No thanks')]</value>
+      <webElementGuid>928775e4-2bfa-4094-901a-39dc1039c97d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

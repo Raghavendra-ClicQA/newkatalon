@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Size</name>
+   <tag></tag>
+   <elementGuidId>5cf76c6b-3687-48e0-8155-cc3ec9090960</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > label > h4.atsa-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='desktopSearchResults']/div/section/div/div[2]/ul/li[3]/label/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>ccaa4f34-9170-4d0f-8426-f7d517f7f355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>atsa-title</value>
+      <webElementGuid>2538558e-ed44-48e2-ac5e-151535969680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Size </value>
+      <webElementGuid>8c50e372-0e12-4d88-965f-100cc42ca96e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desktopSearchResults&quot;)/div[@class=&quot;row-base&quot;]/section[@class=&quot;horizontal-filters-base&quot;]/div[1]/div[@class=&quot;atsa-base&quot;]/ul[@class=&quot;atsa-filters&quot;]/li[3]/label[1]/h4[@class=&quot;atsa-title&quot;]</value>
+      <webElementGuid>73c74bfe-1784-44f3-804d-e7d47fbbfb09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='desktopSearchResults']/div/section/div/div[2]/ul/li[3]/label/h4</value>
+      <webElementGuid>90888e95-6d18-4931-bd27-505a5cea77cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country of Origin'])[1]/following::h4[1]</value>
+      <webElementGuid>cb3822ec-300b-4951-a101-65ecaa6cc4f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bundles'])[1]/following::h4[2]</value>
+      <webElementGuid>d6cdc9ff-af8b-496e-aa8c-f47eba93ab8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[2]/preceding::h4[1]</value>
+      <webElementGuid>422f3201-f474-4ce3-89fa-2a1cc223547d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fire-Boltt'])[1]/preceding::h4[1]</value>
+      <webElementGuid>6c5467f0-3fd2-4630-ac23-affdd696603e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Size']/parent::*</value>
+      <webElementGuid>00013c75-eb14-43d6-9218-1954cb1c41db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/label/h4</value>
+      <webElementGuid>2a103afb-6724-4eee-981f-e713265d4598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Size ' or . = 'Size ')]</value>
+      <webElementGuid>4f05b6c2-863d-431e-b8f0-d878b07db4b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

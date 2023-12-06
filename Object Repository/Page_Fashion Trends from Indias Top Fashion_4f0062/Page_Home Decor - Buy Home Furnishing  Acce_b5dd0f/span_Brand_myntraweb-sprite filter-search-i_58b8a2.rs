@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Brand_myntraweb-sprite filter-search-i_58b8a2</name>
+   <tag></tag>
+   <elementGuidId>90c6a536-c47a-4bbd-979f-48424262de7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vertical-filters-filters.brand-container > div.filter-search-filterSearchBox > span.myntraweb-sprite.filter-search-iconSearch.sprites-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mountRoot']/div/main/div[3]/div/section/div/div[4]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>305e576e-10d3-43fb-8bd4-d77351aaa285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>myntraweb-sprite filter-search-iconSearch sprites-search</value>
+      <webElementGuid>d6ec465b-f726-4a39-92be-81db275f8e54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mountRoot&quot;)/div[1]/main[@class=&quot;search-base&quot;]/div[@class=&quot;row-base&quot;]/div[@class=&quot;search-leftContainer column-base&quot;]/section[1]/div[@class=&quot;condition-render-verticalFilters condition-render-boundary-top&quot;]/div[@class=&quot;vertical-filters-filters brand-container&quot;]/div[@class=&quot;filter-search-filterSearchBox&quot;]/span[@class=&quot;myntraweb-sprite filter-search-iconSearch sprites-search&quot;]</value>
+      <webElementGuid>0cf91950-9e1a-40ff-8c1f-328135b459de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mountRoot']/div/main/div[3]/div/section/div/div[4]/div/span</value>
+      <webElementGuid>61d9759e-dc90-42cc-a5ea-694f3f7c3d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/span</value>
+      <webElementGuid>05668f02-ae9c-4b3a-b7e3-2a5d9f4eb376</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

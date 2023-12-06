@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_3Rooms</name>
+   <tag></tag>
+   <elementGuidId>4782c524-0e81-4014-a148-1fe9e5aa98fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabpanel-packages-tab']/div/div/div/div/div[3]/div/div[2]/div[2]/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>de21a62e-d263-467b-8cba-eff33aa8dfd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Box-sc-kv6pi1-0 feWcow RoomOccupancy__RoomOption</value>
+      <webElementGuid>3d9e4c86-bc5e-4c67-91ec-6a0ac63ddf75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-selenium</name>
+      <type>Main</type>
+      <value>room-option-3</value>
+      <webElementGuid>32072452-b19b-4285-a9ba-6a15d54f8d38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   3 Rooms</value>
+      <webElementGuid>8767813f-2e83-461c-bb3d-3332efbc9acb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabpanel-packages-tab&quot;)/div[@class=&quot;Box-sc-kv6pi1-0 cVUuHz TabContent OpaqueBackground&quot;]/div[@class=&quot;PackageSearchContainer SearchBoxBackdropContainer&quot;]/div[@class=&quot;FlightSearchContainer FlightSearchContainer--vertical&quot;]/div[@class=&quot;FlightSearchContainer__Wrapper&quot;]/div[@class=&quot;FlightSearchContainer__Row&quot;]/div[@class=&quot;SearchSelection&quot;]/div[@class=&quot;Box-sc-kv6pi1-0 bFmQlp SearchSelection__Element&quot;]/div[@class=&quot;Popup RoomOccupancy__Popup&quot;]/div[@class=&quot;Popup__content&quot;]/div[@class=&quot;Box-sc-kv6pi1-0 feWcow RoomOccupancy__RoomOption&quot;]</value>
+      <webElementGuid>f505ee8a-b657-43ce-96c0-3106720bd112</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabpanel-packages-tab']/div/div/div/div/div[3]/div/div[2]/div[2]/div/div[3]</value>
+      <webElementGuid>96064028-51f9-4b0d-bd65-9c2f70cfd5c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return'])[2]/following::div[20]</value>
+      <webElementGuid>c46173dc-c298-4c3f-8299-c1a722c292cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return'])[1]/following::div[21]</value>
+      <webElementGuid>1d5c4449-3e97-44c1-90ae-320de31aef70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search for hotel in different cities or dates'])[1]/preceding::div[4]</value>
+      <webElementGuid>23b2747b-e641-4322-96ba-886fce7ebf4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEARCH FLIGHT + HOTEL'])[1]/preceding::div[7]</value>
+      <webElementGuid>3800a187-8dd5-4005-8142-e45619f951ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[3]</value>
+      <webElementGuid>d42b51fb-5199-454c-b1cc-c1e46fca2f0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '   3 Rooms' or . = '   3 Rooms')]</value>
+      <webElementGuid>21b8afee-447f-4ed8-8f46-d9debe48c505</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

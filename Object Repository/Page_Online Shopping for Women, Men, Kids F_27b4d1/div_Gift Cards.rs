@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Gift Cards</name>
+   <tag></tag>
+   <elementGuidId>8a2cfbaf-6036-40e1-bba3-0a63020119d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='desktop-header-cnt']/div[2]/div[2]/div/div[2]/div[2]/div[2]/div[2]/a[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8a5dde70-ab18-4e00-a2e9-66c40ec57030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desktop-infoSection</value>
+      <webElementGuid>99921cca-fd74-4e03-8d91-5794a6e13b72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-reactid</name>
+      <type>Main</type>
+      <value>874</value>
+      <webElementGuid>705c0f8d-79f0-41d3-bfd5-49f95246dde6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gift Cards</value>
+      <webElementGuid>efc36bdc-ae2e-4a86-aed0-e919834369ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desktop-header-cnt&quot;)/div[@class=&quot;desktop-bound&quot;]/div[@class=&quot;desktop-actions&quot;]/div[@class=&quot;desktop-user&quot;]/div[@class=&quot;desktop-userActions&quot;]/div[@class=&quot;desktop-userActionsContent&quot;]/div[2]/div[@class=&quot;desktop-getInLinks&quot;]/a[@class=&quot;desktop-info&quot;]/div[@class=&quot;desktop-infoSection&quot;]</value>
+      <webElementGuid>622fe8a4-a230-42d9-9584-cfc94ac2796a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='desktop-header-cnt']/div[2]/div[2]/div/div[2]/div[2]/div[2]/div[2]/a[3]/div</value>
+      <webElementGuid>d94e1a28-bb81-4a5c-b3e9-64630661d97b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wishlist'])[1]/following::div[1]</value>
+      <webElementGuid>e6d062c8-35b6-47c8-a1c5-3542a7b6ee71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders'])[1]/following::div[2]</value>
+      <webElementGuid>4dba1152-558c-4255-a332-769ba7d0017f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[2]/preceding::div[1]</value>
+      <webElementGuid>b3a94f69-079b-4985-9248-89f1ee42c3ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gift Cards']/parent::*</value>
+      <webElementGuid>ec7ea557-52c1-4453-bc90-0eb02cd52551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div</value>
+      <webElementGuid>6d1b48bf-6f3b-4080-a065-39b977cedfeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Gift Cards' or . = 'Gift Cards')]</value>
+      <webElementGuid>ca23fc86-fe19-43c0-bd2b-c8ca50af2666</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

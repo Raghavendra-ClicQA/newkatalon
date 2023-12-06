@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Claim my coupon</name>
+   <tag></tag>
+   <elementGuidId>758d6840-2c5f-41cf-90b8-3e0de70e22aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ab-message-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ddc96de5-7f39-4ac6-8aa8-8ecdccddad7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ab-message-button</value>
+      <webElementGuid>afa43096-974e-4790-9c43-bff7e6ee13d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d5f5af49-4c4d-4baa-a5d9-32fc645f7a21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Claim my coupon</value>
+      <webElementGuid>906ac707-303c-466d-b6b5-8aadc55a8073</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;chrome no-js&quot;]/body[@class=&quot;newhome desktop JTBFUN-1062 SKYWL-3850 ltr themed theme-agoda window-loaded ab-pause-scrolling&quot;]/div[@class=&quot;ab-iam-root v3 ab-animate-in ab-animate-out ab-effect-modal ab-show&quot;]/div[@class=&quot;ab-in-app-message  ab-background ab-modal-interactions ab-modal ab-centered&quot;]/div[@class=&quot;ab-message-buttons&quot;]/button[@class=&quot;ab-message-button&quot;]</value>
+      <webElementGuid>a2a87e05-844f-4474-80bb-35a58a06bddb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>a60c0804-9eff-44b0-89b1-1775a2c74f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No thanks'])[1]/preceding::button[1]</value>
+      <webElementGuid>620661bc-3723-4305-ad82-ac2490e23cbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Claim my coupon']/parent::*</value>
+      <webElementGuid>b362b62e-fd7f-4ec8-8ebc-4980a18b48ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/button</value>
+      <webElementGuid>1a1aa568-6bf4-4dc6-888e-6294f857a270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Claim my coupon' or . = 'Claim my coupon')]</value>
+      <webElementGuid>13e8b7b1-bbbb-460d-ad88-86a6a9cf2047</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

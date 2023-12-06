@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login  or Signup</name>
+   <tag></tag>
+   <elementGuidId>a6fea945-739a-4748-b60c-5af386866cb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.popupTitle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainReactContent']/div/div/div/div/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>823d99d5-6b0e-4daf-b151-95eb2778b66d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popupTitle</value>
+      <webElementGuid>2a9063ac-bae9-4fdc-a67d-5f7f481ad30b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Login  or Signup </value>
+      <webElementGuid>e9261513-2a18-4b26-9c9f-a735cc32dcc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainReactContent&quot;)/div[@class=&quot;loginPopupContainer&quot;]/div[@class=&quot;box undefined&quot;]/div[@class=&quot;popup-container&quot;]/div[@class=&quot;overlay active&quot;]/div[@class=&quot;drawer bottom  active&quot;]/div[@class=&quot;popup-content bottom&quot;]/div[@class=&quot;popuInfoContainer&quot;]/div[@class=&quot;popupTitle&quot;]</value>
+      <webElementGuid>d9d3777c-22c9-4815-b8f1-a5e917f50f4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainReactContent']/div/div/div/div/div/div/div[3]/div</value>
+      <webElementGuid>9341998b-6de2-4707-bf7c-5ebdb6d2043f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale Ends In'])[1]/following::div[14]</value>
+      <webElementGuid>b2e757f7-dbf7-4b55-a996-763a304a4c95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='or']/parent::*</value>
+      <webElementGuid>8f2b8b02-589b-44db-86cc-7e91c412fd6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/div[3]/div</value>
+      <webElementGuid>74d65be3-6167-40c0-925d-3c7098a63b2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Login  or Signup ' or . = ' Login  or Signup ')]</value>
+      <webElementGuid>9cbba43d-483c-43b2-a6ae-70ea2891dedb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

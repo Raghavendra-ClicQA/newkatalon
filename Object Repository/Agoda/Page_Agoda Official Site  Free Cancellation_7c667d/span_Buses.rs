@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Buses</name>
+   <tag></tag>
+   <elementGuidId>f1aa73ac-a374-42f2-a15b-dd3966da4aca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='d97d821361f5f']/div[2]/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5d280d39-9dc1-4a27-b1da-80e9b8021ddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Typographystyled__TypographyStyled-sc-j18mtu-0 cLrbU kite-js-Typography __text</value>
+      <webElementGuid>d908fe49-1c00-4bc8-9337-5d947702001f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buses</value>
+      <webElementGuid>64b2272d-39a2-499e-815a-e0666b3c0f34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;d97d821361f5f&quot;)/div[@class=&quot;LinkContainerstyled__EllipsisLinkStyled-sc-1iblxzq-2 coEPRF&quot;]/div[@class=&quot;LinkContainerstyled__MenuItemContainer-sc-1iblxzq-0 cbCdRY Header__LogoAndLinks__Links__Links&quot;]/a[1]/span[@class=&quot;Typographystyled__TypographyStyled-sc-j18mtu-0 cLrbU kite-js-Typography __text&quot;]</value>
+      <webElementGuid>01b4cd7b-085b-4e35-9edb-87af8fb52f82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='d97d821361f5f']/div[2]/div/a/span</value>
+      <webElementGuid>35796513-7c29-48ed-b6a6-de3a933ce645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activities'])[2]/following::span[1]</value>
+      <webElementGuid>cc6cc6a4-b119-4b58-b7f9-c890d6f2da95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New!'])[2]/following::span[2]</value>
+      <webElementGuid>58cffee5-ea9c-425a-a0fc-e097fc074f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trains'])[1]/preceding::span[1]</value>
+      <webElementGuid>e699abef-fb81-4d8e-b6e7-89822168942b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ferries'])[1]/preceding::span[2]</value>
+      <webElementGuid>09e11911-b14a-43f2-a801-9743eb31acb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buses']/parent::*</value>
+      <webElementGuid>36fd92f4-42c2-442a-8caa-9ad2a791424a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/a/span</value>
+      <webElementGuid>046aceb3-231f-4fd8-8a45-3fd20414b240</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Buses' or . = 'Buses')]</value>
+      <webElementGuid>bc49140a-88cd-481e-9ee4-00591a3a889f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

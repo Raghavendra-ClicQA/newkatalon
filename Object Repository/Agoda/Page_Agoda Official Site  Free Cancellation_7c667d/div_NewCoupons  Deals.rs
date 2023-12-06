@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NewCoupons  Deals</name>
+   <tag></tag>
+   <elementGuidId>230b008e-971a-4035-821b-dd6353863efa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='page-header']/section/div/nav/div[2]/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>953d254f-ffc7-4700-b39a-1da7f0a573c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LinkContainerstyled__MenuItemContainer-sc-1iblxzq-0 cbCdRY Header__LogoAndLinks__Links__Links</value>
+      <webElementGuid>e8e64f3b-6ec6-4fba-8d15-bf08dca5a486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-selenium</name>
+      <type>Main</type>
+      <value>header-deals</value>
+      <webElementGuid>c7ddc01e-3451-4dbf-a1bb-5899b188d9dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New!Coupons &amp; Deals</value>
+      <webElementGuid>c9ed1ff8-5c31-4427-8d07-59063a778948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-header&quot;)/section[@class=&quot;Headerstyled__HeaderSection-sc-vtperc-0 disNST&quot;]/div[@class=&quot;Box-sc-kv6pi1-0 dYXiHf&quot;]/nav[@class=&quot;Header__LogoAndLinks&quot;]/div[@class=&quot;Box-sc-kv6pi1-0 LinkContainerstyled__LinkContainerStyled-sc-1iblxzq-6 eBCFLe kMrXMJ Header__LogoAndLinks__Links&quot;]/div[@class=&quot;LinkContainerstyled__LinkStyled-sc-1iblxzq-1 cFhCYv&quot;]/div[@class=&quot;LinkContainerstyled__MenuItemContainer-sc-1iblxzq-0 cbCdRY Header__LogoAndLinks__Links__Links&quot;]</value>
+      <webElementGuid>b98473d0-6a51-41ba-89de-1bb5598d3e59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='page-header']/section/div/nav/div[2]/div[4]/div</value>
+      <webElementGuid>d6b3ecce-d2c4-4c30-ad3a-278a378e4253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flights'])[1]/following::div[2]</value>
+      <webElementGuid>778e5feb-25c6-4f9a-a958-5d7da3019e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotels &amp; Homes'])[1]/following::div[4]</value>
+      <webElementGuid>3232edc7-ebfe-4a61-9353-6c4845953f27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>2aba9fb0-8493-4045-b934-b28786d1ad64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'New!Coupons &amp; Deals' or . = 'New!Coupons &amp; Deals')]</value>
+      <webElementGuid>d86ad9ae-b1bb-45e4-ab0c-767b0d20792a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

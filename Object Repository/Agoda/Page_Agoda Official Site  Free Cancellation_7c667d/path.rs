@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>3142c1a5-de83-43a6-a248-f0215c04995b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ab-close-button > svg > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>77a0cb5b-b21f-476b-8ad4-081364f49fdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M15 1.5L13.5 0l-6 6-6-6L0 1.5l6 6-6 6L1.5 15l6-6 6 6 1.5-1.5-6-6 6-6z</value>
+      <webElementGuid>da717fab-f771-4622-aaf8-18012debcd73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;chrome no-js&quot;]/body[@class=&quot;newhome desktop FUSIONFE-3431 SKYWL-3850 ltr themed theme-agoda window-loaded ab-pause-scrolling&quot;]/div[@class=&quot;ab-iam-root v3 ab-animate-in ab-animate-out ab-effect-modal ab-show&quot;]/div[@class=&quot;ab-in-app-message  ab-background ab-modal-interactions ab-modal ab-centered&quot;]/button[@class=&quot;ab-close-button&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>d8bdb2ba-f5ae-45c1-832f-65740d5a8d1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>rgba(247,247,247,1)</value>
+      <webElementGuid>e3800e05-7a73-418a-9d87-9fc875668568</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

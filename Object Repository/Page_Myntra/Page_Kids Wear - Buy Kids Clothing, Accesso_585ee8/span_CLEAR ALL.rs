@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CLEAR ALL</name>
+   <tag></tag>
+   <elementGuidId>d8b01f91-1859-405a-9447-26b87a7e25c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>re</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.header-clearAllBtn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2b56c5ad-89f9-4705-b9b2-7dea500341a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-clearAllBtn</value>
+      <webElementGuid>0c33ce7c-f9cb-4cb0-ba44-800468540a22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CLEAR ALL</value>
+      <webElementGuid>680e0649-5d92-465c-b341-d193156cef0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mountRoot&quot;)/div[1]/main[@class=&quot;search-base&quot;]/div[@class=&quot;row-base&quot;]/div[@class=&quot;search-leftContainer column-base&quot;]/section[1]/div[@class=&quot;condition-render-verticalFiltersOnClearAll condition-render-verticalFilters condition-render-boundary-top&quot;]/div[@class=&quot;vertical-filters-filters header-container&quot;]/span[@class=&quot;header-clearAllBtn&quot;]</value>
+      <webElementGuid>11155882-9d47-438d-a8b6-fd99bf75b7f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mountRoot']/div/main/div[3]/div/section/div/div/span[2]</value>
+      <webElementGuid>6ef40ea8-9e4a-4aed-bacc-49a13eceb30b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FILTERS'])[1]/following::span[1]</value>
+      <webElementGuid>cf8264d4-b33d-4281-bcbb-e656c461b1bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kids Wear Online Store'])[2]/following::span[3]</value>
+      <webElementGuid>4999508f-625c-4821-8fcb-be68ab42292a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boys'])[1]/preceding::span[1]</value>
+      <webElementGuid>e2d5a4cd-e480-4208-85e8-e9351450d5ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Girls'])[1]/preceding::span[1]</value>
+      <webElementGuid>0bfa13e8-ac49-4f89-a722-fac46f9eefba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CLEAR ALL']/parent::*</value>
+      <webElementGuid>46b9fce1-f253-44a0-b4ba-63939a647ead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/span[2]</value>
+      <webElementGuid>2433e397-88f9-4190-9a60-487603b97286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'CLEAR ALL' or . = 'CLEAR ALL')]</value>
+      <webElementGuid>44aa1c28-f51f-4100-8a7d-911ab6758cef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SEARCH</name>
+   <tag></tag>
+   <elementGuidId>d84235ca-e7f6-488e-93a5-2f50ccaa17f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabpanel-activities-tab']/div[2]/div/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.Buttonstyled__ButtonStyled-sc-5gjk6l-0.iCZpGI.Box-sc-kv6pi1-0.fDMIuA > div.BaseButtonstyled__HiddenToggler-sc-12j2fzo-2.fMuMFt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>71dd1048-fa33-40e7-8581-ebb4cde91906</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>BaseButtonstyled__HiddenToggler-sc-12j2fzo-2 fMuMFt</value>
+      <webElementGuid>3de7f9d2-9181-4a44-a460-1ff4e4d8eb52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SEARCH</value>
+      <webElementGuid>84e93c8e-24dd-44bd-abb1-a9586397798b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabpanel-activities-tab&quot;)/div[@class=&quot;Box-sc-kv6pi1-0 hRUYUu TabContent__Search--button&quot;]/div[@class=&quot;sc-bdfBwQ sc-gsTCUz  gvomHg&quot;]/button[@class=&quot;Buttonstyled__ButtonStyled-sc-5gjk6l-0 iCZpGI Box-sc-kv6pi1-0 fDMIuA&quot;]/div[@class=&quot;BaseButtonstyled__HiddenToggler-sc-12j2fzo-2 fMuMFt&quot;]</value>
+      <webElementGuid>6255075a-51af-4c71-88f2-4e41367e8164</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabpanel-activities-tab']/div[2]/div/button/div</value>
+      <webElementGuid>35985a2f-172d-484a-892a-2e8030bffe77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search by city or activity'])[1]/following::div[4]</value>
+      <webElementGuid>63f571d4-9eac-4e81-b20e-2bdd66d9ef21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airport transfer'])[2]/following::div[15]</value>
+      <webElementGuid>7381818a-dadc-47d3-9539-6f5937787811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top destinations in India'])[1]/preceding::div[2]</value>
+      <webElementGuid>e047681e-c9d6-4845-8699-09e826efd221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/div</value>
+      <webElementGuid>7d96fb99-2263-40d9-8fad-615e153416f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SEARCH' or . = 'SEARCH')]</value>
+      <webElementGuid>1c43799c-4350-4d15-9dcf-b049a8ccb0b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

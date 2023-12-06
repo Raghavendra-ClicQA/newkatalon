@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create account</name>
+   <tag></tag>
+   <elementGuidId>7bcaa73f-7ee2-4fb7-8cbd-db0c60bf18e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='page-header']/section/div[2]/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.Buttonstyled__ButtonStyled-sc-5gjk6l-0.eMdpUC.global-header-signup-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4be91df5-7b0d-402a-a881-1806d2034951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>radius</name>
+      <type>Main</type>
+      <value>S</value>
+      <webElementGuid>7c9756a1-74ab-4b21-841f-15cd56d90539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-element-name</name>
+      <type>Main</type>
+      <value>sign-up-button</value>
+      <webElementGuid>6ef8c35d-cac1-4b76-b50b-035de491291d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Buttonstyled__ButtonStyled-sc-5gjk6l-0 eMdpUC global-header-signup-button</value>
+      <webElementGuid>3038cce1-2513-4b66-8001-c4aaa16d79ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>614157a9-66f4-4408-9ee3-d22516e7625b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create account</value>
+      <webElementGuid>b4ac818a-0dd2-43b5-92dc-8f52dd031f5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-header&quot;)/section[@class=&quot;Headerstyled__HeaderSection-sc-vtperc-0 disNST&quot;]/div[@class=&quot;Box-sc-kv6pi1-0 Headerstyled__RightContainer-sc-vtperc-1 hfsWAU bbgjzZ&quot;]/div[@class=&quot;ActionBarstyled__ActionBarStyled-sc-1ozl0pn-0 jgWVkG&quot;]/div[@class=&quot;ActionItemParentstyled__ActionItemParentStyled-sc-1lr3ueg-0 bNmljX&quot;]/div[@class=&quot;ActionItemstyled__ActionItemStyled-sc-18hov6g-0 keocCM&quot;]/button[@class=&quot;Buttonstyled__ButtonStyled-sc-5gjk6l-0 eMdpUC global-header-signup-button&quot;]</value>
+      <webElementGuid>41a97824-d69f-4efc-bd63-f56a9b8f0be4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='page-header']/section/div[2]/div/div/div/button</value>
+      <webElementGuid>7a542724-d4a9-471d-b22b-a02a3c8a6768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activities'])[1]/following::button[1]</value>
+      <webElementGuid>7fd04ad9-b38f-4cb4-8d31-1d3ac65e7ecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New!'])[2]/following::button[1]</value>
+      <webElementGuid>927e7d6d-1120-45de-b09d-6e2ac6904db6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::button[1]</value>
+      <webElementGuid>4a733edd-35b8-4866-9342-1a488eaf7544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>910d426e-88ba-49cb-a3a0-1934c229c933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Create account' or . = 'Create account')]</value>
+      <webElementGuid>325fbfef-a1c2-48ba-a54a-2b34387f41fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transport'])[1]/following::button[1]</value>
+      <webElementGuid>6afdf5c4-19b0-4435-a15e-45477ae508c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

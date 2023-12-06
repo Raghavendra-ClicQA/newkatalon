@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pick-up date</name>
+   <tag></tag>
+   <elementGuidId>bc16b2e7-c4c0-4011-8c69-f55c3dfcf295</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='journey-calendar']/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.SearchBoxTextDescription__desc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e69a3448-6791-47da-862f-1fd7505b33fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SearchBoxTextDescription__desc</value>
+      <webElementGuid>2c618b33-61a1-4562-9fdf-9caaf8a9b967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pick-up date</value>
+      <webElementGuid>10b8f726-f169-41cf-9849-2f8b37d86eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;journey-calendar&quot;)/div[@class=&quot;IconBox__wrapper&quot;]/div[@class=&quot;IconBox__child&quot;]/div[@class=&quot;SearchBoxTextDescription SearchBoxTextDescription--date SearchBoxTextDescription--onlyDesc DateTimeSelector__Description&quot;]/div[@class=&quot;SearchBoxTextDescription__desc&quot;]</value>
+      <webElementGuid>15681e76-cdcc-4d14-a7ba-cc71149e79fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='journey-calendar']/div/div/div/div[2]</value>
+      <webElementGuid>f6ee52c8-8cdb-4155-bf02-7e43aa2cbee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To airport'])[1]/following::div[34]</value>
+      <webElementGuid>687642e4-0257-4344-be65-1bd7f6d01260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From airport'])[1]/following::div[35]</value>
+      <webElementGuid>fbf3e525-eb36-41b5-a985-788cc8423d77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::div[18]</value>
+      <webElementGuid>ca7a4a38-da10-4b60-8edd-fa46df2a83b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top destinations in India'])[1]/preceding::div[22]</value>
+      <webElementGuid>300399b2-6309-47d0-b635-09a717725f46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pick-up date']/parent::*</value>
+      <webElementGuid>4339affd-1a96-40a9-aca6-a6068590a637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div[2]/div/div/div/div/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>2bde9651-75c9-4d8d-a38d-35ce7e62497c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pick-up date' or . = 'Pick-up date')]</value>
+      <webElementGuid>54cb9313-b765-41f3-911c-ff7c16f0a046</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

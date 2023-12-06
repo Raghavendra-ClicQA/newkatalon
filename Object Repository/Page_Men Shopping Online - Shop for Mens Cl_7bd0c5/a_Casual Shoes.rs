@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Casual Shoes</name>
+   <tag></tag>
+   <elementGuidId>cd09f700-7521-4f83-994a-ffa9d3872d0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='desktop-header-cnt']/div[2]/nav/div/div/div/div/div/div/li[3]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>95186fda-b8f6-46a3-ad68-5e9048c799bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/men-casual-shoes</value>
+      <webElementGuid>b8d76cdb-b8b4-4fbf-b622-6c3b7770b4a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desktop-categoryLink</value>
+      <webElementGuid>dfff9fc9-d5ef-4b19-b2dc-a20797a4ca61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-reactid</name>
+      <type>Main</type>
+      <value>94</value>
+      <webElementGuid>06182895-d0b5-48d6-a360-b4ae7a0f2beb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Casual Shoes</value>
+      <webElementGuid>7938fa6f-52cd-41cd-a482-00ee55ac025f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desktop-header-cnt&quot;)/div[@class=&quot;desktop-bound&quot;]/nav[@class=&quot;desktop-navbar&quot;]/div[@class=&quot;desktop-navLinks&quot;]/div[@class=&quot;desktop-navContent&quot;]/div[@class=&quot;desktop-navLink&quot;]/div[@class=&quot;desktop-backdropStyle&quot;]/div[@class=&quot;desktop-paneContent&quot;]/div[@class=&quot;desktop-categoryContainer&quot;]/li[@class=&quot;desktop-oddColumnContent&quot;]/ul[@class=&quot;desktop-navBlock&quot;]/li[2]/a[@class=&quot;desktop-categoryLink&quot;]</value>
+      <webElementGuid>35596f8b-2576-4dbf-ac62-4734cc2da19d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='desktop-header-cnt']/div[2]/nav/div/div/div/div/div/div/li[3]/ul/li[2]/a</value>
+      <webElementGuid>8bec2c2c-3155-4c68-9e2e-f704ecb99c0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Casual Shoes')]</value>
+      <webElementGuid>af23cacc-931d-4140-bc4f-e1394228293d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footwear'])[1]/following::a[1]</value>
+      <webElementGuid>70322f19-5c9d-42eb-b680-9eba999278c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plus Size'])[1]/following::a[2]</value>
+      <webElementGuid>acb9fa82-75d2-4805-9398-4ddd259165b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sports Shoes'])[1]/preceding::a[1]</value>
+      <webElementGuid>bb78c0ba-6054-4c08-89b9-36e2b2e523e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Formal Shoes'])[1]/preceding::a[2]</value>
+      <webElementGuid>f089972d-0f95-4534-9616-b99dfd43a443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Casual Shoes']/parent::*</value>
+      <webElementGuid>a1f86efb-deb6-4a1a-b329-7a7afd8bc716</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/men-casual-shoes')]</value>
+      <webElementGuid>0a037b1d-a1a5-4b46-bc81-32c6594f8bdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[2]/a</value>
+      <webElementGuid>fa3324e9-ffde-40e8-8abb-8b254768493e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/men-casual-shoes' and (text() = 'Casual Shoes' or . = 'Casual Shoes')]</value>
+      <webElementGuid>8502d3b5-3906-4142-b650-c8db5bd8ec5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

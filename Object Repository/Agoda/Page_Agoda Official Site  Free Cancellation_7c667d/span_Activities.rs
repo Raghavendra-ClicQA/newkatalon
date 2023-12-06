@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Activities</name>
+   <tag></tag>
+   <elementGuidId>33b7f3a8-cb02-4c03-b605-4978edcc0a56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='page-header']/section/div/nav/div[2]/div[5]/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b879237b-683f-4b42-9463-3b0937110418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Typographystyled__TypographyStyled-sc-j18mtu-0 cLrbU kite-js-Typography __text</value>
+      <webElementGuid>7cc27e0f-932b-4812-82ff-31b3a722936a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Activities</value>
+      <webElementGuid>b8f6454b-94ee-41e2-be44-ddccc9807888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-header&quot;)/section[@class=&quot;Headerstyled__HeaderSection-sc-vtperc-0 disNST&quot;]/div[@class=&quot;Box-sc-kv6pi1-0 dYXiHf&quot;]/nav[@class=&quot;Header__LogoAndLinks&quot;]/div[@class=&quot;Box-sc-kv6pi1-0 LinkContainerstyled__LinkContainerStyled-sc-1iblxzq-6 eBCFLe kMrXMJ Header__LogoAndLinks__Links&quot;]/div[@class=&quot;LinkContainerstyled__LinkStyled-sc-1iblxzq-1 cFhCYv&quot;]/div[@class=&quot;LinkContainerstyled__MenuItemContainer-sc-1iblxzq-0 cbCdRY Header__LogoAndLinks__Links__Links&quot;]/a[1]/span[@class=&quot;Typographystyled__TypographyStyled-sc-j18mtu-0 cLrbU kite-js-Typography __text&quot;]</value>
+      <webElementGuid>c1bd329a-67a9-48be-9766-d74a087e58e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='page-header']/section/div/nav/div[2]/div[5]/div/a/span</value>
+      <webElementGuid>f4065f84-0691-4d11-b1d3-796a237219e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New!'])[1]/following::span[1]</value>
+      <webElementGuid>33bf566a-cbc7-4903-956c-9f19ada10acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airport transfer'])[1]/following::span[2]</value>
+      <webElementGuid>48a5c72b-1d73-4ef1-a9e9-989dcd9350a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transport'])[1]/preceding::span[1]</value>
+      <webElementGuid>1fa329dc-4637-4c94-9445-953fba36bb2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create account'])[1]/preceding::span[4]</value>
+      <webElementGuid>ad46008b-28d5-4f1f-a775-7e8856320947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Activities']/parent::*</value>
+      <webElementGuid>78932941-669a-4143-b9f0-4e0fd9dc2428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a/span</value>
+      <webElementGuid>5bc78d18-53ca-4f52-aa0a-aa3bd0e2390b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Activities' or . = 'Activities')]</value>
+      <webElementGuid>162a367d-a9a4-49e3-a854-8a61a02ee710</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

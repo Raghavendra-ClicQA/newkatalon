@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Learn more</name>
+   <tag></tag>
+   <elementGuidId>0cdca936-14bc-4efe-91a3-c2c4d7301ebf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='page-header']/div/form/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form.Box-sc-kv6pi1-0.iyqcnt > button.Buttonstyled__ButtonStyled-sc-5gjk6l-0.hfbtLY</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e7940590-1d5c-4092-9a24-d4486ede8d90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-element-name</name>
+      <type>Main</type>
+      <value>covid19-banner-btn</value>
+      <webElementGuid>cbb2b8b4-2671-4d57-a16e-6858151275bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>8230e230-1ecf-4206-9ab9-919ea9ea69e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Buttonstyled__ButtonStyled-sc-5gjk6l-0 hfbtLY</value>
+      <webElementGuid>b880b5ea-6bb7-4372-bf4d-c0babacb493f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learn more</value>
+      <webElementGuid>90cc240c-f580-4009-882d-addae93975bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-header&quot;)/div[@class=&quot;Box-sc-kv6pi1-0 cNTHVT&quot;]/form[@class=&quot;Box-sc-kv6pi1-0 iyqcnt&quot;]/button[@class=&quot;Buttonstyled__ButtonStyled-sc-5gjk6l-0 hfbtLY&quot;]</value>
+      <webElementGuid>fc94dea8-acfe-4267-987f-90cdb5e0075e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='page-header']/div/form/button</value>
+      <webElementGuid>b001703e-7c4e-401a-9237-abb5ff971460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Traveling internationally? Get updated information on COVID-19 travel guidance and restrictions.'])[1]/following::button[1]</value>
+      <webElementGuid>9e033447-ce70-4d4c-80d6-7f96f005d622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List your place'])[1]/following::button[3]</value>
+      <webElementGuid>bb6ca2ab-825e-4ca4-a97e-ea953cc5b0d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotels &amp; Homes'])[2]/preceding::button[1]</value>
+      <webElementGuid>6a672e01-f2ae-49f9-bb34-4dfaeaf0cec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>9d98157a-4c1e-4aa9-b25f-ecaf91a78bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Learn more' or . = 'Learn more')]</value>
+      <webElementGuid>d2301600-b473-4943-aa10-24e0bcb9fd1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

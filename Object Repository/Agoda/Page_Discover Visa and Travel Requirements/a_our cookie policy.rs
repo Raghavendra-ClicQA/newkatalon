@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_our cookie policy</name>
+   <tag></tag>
+   <elementGuidId>3a5bfc2e-6191-4b11-be75-d512e4ad2a13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='onetrust-policy-text']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#onetrust-policy-text > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>31ae3168-7d22-4fb2-80f3-55a4f063f17b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.joinsherpa.com/legal/cookies-policy</value>
+      <webElementGuid>6cedb071-0696-4c62-9b13-2c0366140e32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>our cookie policy.</value>
+      <webElementGuid>84a68f15-fa9a-4df4-8808-fdd5a85c1977</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onetrust-policy-text&quot;)/a[1]</value>
+      <webElementGuid>f411dbd2-e066-4c90-afdf-cb51dc1974a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='onetrust-policy-text']/a</value>
+      <webElementGuid>d693011b-eb0b-4563-a8f4-69ac9c9f6b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'our cookie policy.')]</value>
+      <webElementGuid>e1db5e11-f07f-4723-a68d-b9f275ff0f41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How we use cookies'])[1]/following::a[1]</value>
+      <webElementGuid>506844d3-f9e2-43ac-81ff-9f8b9962d57c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save preferences'])[1]/following::a[2]</value>
+      <webElementGuid>b8e7ad9b-fcce-421c-9512-19cf8380d40a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookies preferences'])[1]/preceding::a[1]</value>
+      <webElementGuid>73450aa7-2981-4a0b-84fb-e33e6508cf0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accept essential cookies'])[1]/preceding::a[1]</value>
+      <webElementGuid>b994c9dd-4d88-4e25-aca7-8c860a22a36f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='our cookie policy.']/parent::*</value>
+      <webElementGuid>d8d34ce7-d714-4a41-b9c8-419563071a56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.joinsherpa.com/legal/cookies-policy')])[2]</value>
+      <webElementGuid>629e6763-acab-4890-a9e0-46ae920d4ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>572a6718-5e15-44b1-9b36-331d8c75b566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.joinsherpa.com/legal/cookies-policy' and (text() = 'our cookie policy.' or . = 'our cookie policy.')]</value>
+      <webElementGuid>f416d383-5563-44fb-8bfe-4da6927ce155</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

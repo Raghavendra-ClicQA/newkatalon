@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1 passenger</name>
+   <tag></tag>
+   <elementGuidId>102c9d58-538f-410d-9b90-a87a3d04376a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='packages-flight-occupancy']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.SearchBoxTextDescription.SearchBoxTextDescription--NewDesign.FlightSearchOccupancy__Description > div.SearchBoxTextDescription__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6e75783f-3f3e-4004-856b-31326a221d44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SearchBoxTextDescription__title</value>
+      <webElementGuid>571d4ed3-de86-48ec-822f-d8a879bca294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 Passenger</value>
+      <webElementGuid>39652cf4-4a95-497c-9bb7-d77baeba2a5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;packages-flight-occupancy&quot;)/div[@class=&quot;Box-sc-kv6pi1-0 hRUYUu IconBox__wrapper&quot;]/div[@class=&quot;IconBox__child&quot;]/div[@class=&quot;SearchBoxTextDescription SearchBoxTextDescription--NewDesign FlightSearchOccupancy__Description&quot;]/div[@class=&quot;SearchBoxTextDescription__title&quot;]</value>
+      <webElementGuid>a4cb3778-a955-4372-a613-c87da428e1dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2847ef03-d700-434a-a645-0a1311201dce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>1 Passenger</value>
+      <webElementGuid>cac11b1c-843e-4b60-ba03-0895fa1dd728</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='packages-flight-occupancy']/div/div/div/div</value>
+      <webElementGuid>b99d9e56-177a-4994-9af5-5c8e1f7e28b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return'])[2]/following::div[9]</value>
+      <webElementGuid>f4c9b268-ec65-449f-bc5a-590c7dbb3542</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return'])[1]/following::div[10]</value>
+      <webElementGuid>bd8eb65b-f24f-4251-a340-c3e18f41d174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search for hotel in different cities or dates'])[1]/preceding::div[7]</value>
+      <webElementGuid>70e114cd-a7a6-49aa-a51a-fb0f8b4112ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEARCH FLIGHT + HOTEL'])[1]/preceding::div[9]</value>
+      <webElementGuid>ecd5de75-4e2c-4afb-b787-0d3c82f3c736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1 Passenger']/parent::*</value>
+      <webElementGuid>efd0a6c1-0a00-4429-a90b-782aa09523be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div</value>
+      <webElementGuid>d658dd46-d65f-49ef-8e76-4756f08a1a3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1 Passenger' or . = '1 Passenger')]</value>
+      <webElementGuid>0b539cb8-21d7-47f7-8bbd-c055e6d9388c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='journey-passenger']/div</value>
+      <webElementGuid>32ff4989-040c-430a-b3b7-20c8d74836ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[2]/following::div[55]</value>
+      <webElementGuid>1827d3f4-c732-4eb0-90f1-f3a646073ef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[2]/following::div[56]</value>
+      <webElementGuid>f1fb866d-1b58-49a5-bb16-0942bfe5296b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::div[4]</value>
+      <webElementGuid>e1db7190-06d6-46b8-aa99-c077fd70aa96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top destinations in India'])[1]/preceding::div[8]</value>
+      <webElementGuid>e6a04cf3-9526-4c34-b027-99e8847a88d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>9109c38d-f9a2-4968-a777-e3aa49ef6cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1 passenger' or . = '1 passenger')]</value>
+      <webElementGuid>f5b60391-0a46-4b17-9de9-08b4302cab98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

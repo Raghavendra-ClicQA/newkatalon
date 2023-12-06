@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bed Linen  Furnishing</name>
+   <tag></tag>
+   <elementGuidId>fbdf0710-385b-4c3c-b872-a02a556b7acc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='desktop-header-cnt']/div[2]/nav/div/div[4]/div/div/div/div/li/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>66a49713-a45c-4d3d-b0ac-9888ffeb8a24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/bedding</value>
+      <webElementGuid>19977009-cf07-498a-b9f6-8d20949effd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desktop-categoryName</value>
+      <webElementGuid>df8a16c1-41e7-4eee-b85a-e1ff39d82c80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-reactid</name>
+      <type>Main</type>
+      <value>507</value>
+      <webElementGuid>582a5a49-235c-497e-8102-0253c2040899</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bed Linen &amp; Furnishing</value>
+      <webElementGuid>34fd14a3-8fbd-4280-b7df-970af9aeb1de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desktop-header-cnt&quot;)/div[@class=&quot;desktop-bound&quot;]/nav[@class=&quot;desktop-navbar&quot;]/div[@class=&quot;desktop-navLinks&quot;]/div[@class=&quot;desktop-navContent&quot;]/div[@class=&quot;desktop-navLink&quot;]/div[@class=&quot;desktop-backdropStyle&quot;]/div[@class=&quot;desktop-paneContent&quot;]/div[@class=&quot;desktop-categoryContainer&quot;]/li[@class=&quot;desktop-oddColumnContent&quot;]/ul[@class=&quot;desktop-navBlock&quot;]/li[1]/a[@class=&quot;desktop-categoryName&quot;]</value>
+      <webElementGuid>f1018d14-27f1-4d70-8949-fef97b1b94bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='desktop-header-cnt']/div[2]/nav/div/div[4]/div/div/div/div/li/ul/li/a</value>
+      <webElementGuid>5f802cd6-9b8b-4060-9bdf-7ef821ef248a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bed Linen &amp; Furnishing')]</value>
+      <webElementGuid>842214b9-c333-45b3-88e1-8beaee99e247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home &amp; Living'])[1]/following::a[1]</value>
+      <webElementGuid>8d4cfcde-a7d2-400b-87ae-dc34413d4125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HRX'])[1]/following::a[2]</value>
+      <webElementGuid>90422133-8e5a-43db-85f5-0a440ef71956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bed Runners'])[1]/preceding::a[1]</value>
+      <webElementGuid>bae0fbd2-96b3-48d7-99da-3aca65a04078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mattress Protectors'])[1]/preceding::a[2]</value>
+      <webElementGuid>e5a0dc12-275a-4108-b050-2ab0c65be8b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bed Linen &amp; Furnishing']/parent::*</value>
+      <webElementGuid>18d5800d-34df-4d35-9b8c-c3df4deecb84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/bedding')]</value>
+      <webElementGuid>6fd83909-8816-428c-95a3-3ff775a2fd9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/li/ul/li/a</value>
+      <webElementGuid>d543e2b9-6c53-43c1-9fb6-3b8a87508c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/bedding' and (text() = 'Bed Linen &amp; Furnishing' or . = 'Bed Linen &amp; Furnishing')]</value>
+      <webElementGuid>90a0590d-ac97-4177-a1bd-77e62e8ac1e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Take me there</name>
+   <tag></tag>
+   <elementGuidId>bf087ebc-11a4-4188-bc44-a39192b51ae5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ab-message-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7877b03e-08a6-49cd-879c-1c475c820f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ab-message-button</value>
+      <webElementGuid>100cff26-34db-428f-b277-ce25b682f39c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>60771518-f984-4aee-8675-2fad51159415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Take me there!</value>
+      <webElementGuid>697bd1fd-bfc9-4aba-9e48-d89610362940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;chrome no-js&quot;]/body[@class=&quot;newhome desktop JTBFUN-1062 SKYWL-3850 ltr themed theme-agoda window-loaded ab-pause-scrolling&quot;]/div[@class=&quot;ab-iam-root v3 ab-animate-in ab-animate-out ab-effect-modal ab-show&quot;]/div[@class=&quot;ab-in-app-message  ab-background ab-modal-interactions ab-modal ab-centered&quot;]/div[@class=&quot;ab-message-buttons&quot;]/button[@class=&quot;ab-message-button&quot;]</value>
+      <webElementGuid>194bd801-bd20-4d47-8644-7964c5326ae7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>7de2603a-6e9b-4c5a-b56e-47539d31563d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dear valued customer, we got more deals for you!'])[1]/following::button[1]</value>
+      <webElementGuid>089b2ac0-2daf-4bc3-a366-a0978b508495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sg-pc-6g-acm-web-user-b5d8754b6-xc2lp'])[1]/following::button[2]</value>
+      <webElementGuid>a9e42d24-e06a-4afa-9e02-98cb69070fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No thanks'])[1]/preceding::button[1]</value>
+      <webElementGuid>71842576-81c7-4179-b694-1f26e38c4b3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Take me there!']/parent::*</value>
+      <webElementGuid>545f4481-6c2b-4a50-9b6f-76452f8b25ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/button</value>
+      <webElementGuid>f79d2b2e-0616-4071-96b8-5d848054e050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Take me there!' or . = 'Take me there!')]</value>
+      <webElementGuid>cb44afde-e870-4431-9dcc-a77ab2098315</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

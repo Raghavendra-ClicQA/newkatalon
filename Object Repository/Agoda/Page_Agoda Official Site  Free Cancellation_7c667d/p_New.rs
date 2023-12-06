@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_New</name>
+   <tag></tag>
+   <elementGuidId>42397b95-84c0-4d78-98b9-7dd831714c5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tab-activities-tab']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tab-activities-tab > div.Box-sc-kv6pi1-0.jRKoan > p.Typographystyled__TypographyStyled-sc-j18mtu-0.kksGcu.kite-js-Typography.Box-sc-kv6pi1-0.jFVgra</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2c3c83ce-ae09-4d28-a01d-01a34dbab677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Typographystyled__TypographyStyled-sc-j18mtu-0 kksGcu kite-js-Typography Box-sc-kv6pi1-0 jFVgra</value>
+      <webElementGuid>c8c9135e-062d-43a1-8c8b-0d3eca99486b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New!</value>
+      <webElementGuid>1d130cdd-3cf8-4b6d-a59f-c00e537243dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-activities-tab&quot;)/div[@class=&quot;Box-sc-kv6pi1-0 jRKoan&quot;]/p[@class=&quot;Typographystyled__TypographyStyled-sc-j18mtu-0 kksGcu kite-js-Typography Box-sc-kv6pi1-0 jFVgra&quot;]</value>
+      <webElementGuid>3cabb691-5ed7-4959-acd1-dc078da72758</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tab-activities-tab']/div/p</value>
+      <webElementGuid>99f8f193-b2ea-4db6-92ca-da4f7b4c6a28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flights'])[2]/following::p[1]</value>
+      <webElementGuid>cdeb9f59-517f-4bb8-8ad6-e054a88e4b59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flight + Hotel'])[2]/following::p[1]</value>
+      <webElementGuid>1d7bdf9b-5fad-4f6b-a722-bcf485e86aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activities'])[2]/preceding::p[1]</value>
+      <webElementGuid>fbf3d88f-1f4d-4dff-a9c0-41a87080a361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airport transfer'])[2]/preceding::p[2]</value>
+      <webElementGuid>ed0e161c-e027-45bb-bfc7-62175d4a901e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/p</value>
+      <webElementGuid>241650ea-e652-4152-9afb-fbe67076afdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'New!' or . = 'New!')]</value>
+      <webElementGuid>d595e06e-c857-4145-a2df-a62822e9af66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tab-journey-tab']/div/p</value>
+      <webElementGuid>59c9e9fa-caae-45a8-9fa1-cd66e7b50a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activities'])[2]/following::p[1]</value>
+      <webElementGuid>61fc8e3b-7d82-4467-a023-7d1d5c42ecfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flights'])[2]/following::p[2]</value>
+      <webElementGuid>546ddbbf-1897-410a-abb5-a7033cdd7d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airport transfer'])[2]/preceding::p[1]</value>
+      <webElementGuid>53266276-a152-455d-8410-ef64804ef3e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overnight Stays'])[1]/preceding::p[1]</value>
+      <webElementGuid>8a7f8cd3-ef78-4039-90ed-38ba1415a33c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/div/p</value>
+      <webElementGuid>717752d5-9783-4e83-b7b0-fe2fe28b5983</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Flight  Hotel</name>
+   <tag></tag>
+   <elementGuidId>60af6d47-213f-42c8-a564-97be7caf3511</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='page-header']/section/div/nav/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.LinkContainerstyled__MenuItemContainer-sc-1iblxzq-0.cbCdRY.Header__LogoAndLinks__Links__Links</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1d735d92-9ac2-44fe-8c4c-43c4fdee0fe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LinkContainerstyled__MenuItemContainer-sc-1iblxzq-0 cbCdRY Header__LogoAndLinks__Links__Links</value>
+      <webElementGuid>2305ced7-4a7b-4611-8463-b86e0c5ed10e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-selenium</name>
+      <type>Main</type>
+      <value>header-packages</value>
+      <webElementGuid>13bbd9f8-3d50-4dc7-94c4-80f465501b23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Flight + Hotel</value>
+      <webElementGuid>76a26b7f-6b70-4c88-a44f-46fe2e9836d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-header&quot;)/section[@class=&quot;Headerstyled__HeaderSection-sc-vtperc-0 disNST&quot;]/div[@class=&quot;Box-sc-kv6pi1-0 dYXiHf&quot;]/nav[@class=&quot;Header__LogoAndLinks&quot;]/div[@class=&quot;Box-sc-kv6pi1-0 LinkContainerstyled__LinkContainerStyled-sc-1iblxzq-6 eBCFLe kMrXMJ Header__LogoAndLinks__Links&quot;]/div[@class=&quot;LinkContainerstyled__LinkStyled-sc-1iblxzq-1 cFhCYv&quot;]/div[@class=&quot;LinkContainerstyled__MenuItemContainer-sc-1iblxzq-0 cbCdRY Header__LogoAndLinks__Links__Links&quot;]</value>
+      <webElementGuid>44cf8156-97e5-4336-bbe1-698e318aa82e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='page-header']/section/div/nav/div[2]/div/div</value>
+      <webElementGuid>767595c4-6a69-4983-9dbe-58c4ebd632f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotels &amp; Homes'])[1]/preceding::div[1]</value>
+      <webElementGuid>e59c9f0f-7ae6-4ed2-9d7e-7e999756c176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div[2]/div/div</value>
+      <webElementGuid>27725352-882a-4fd3-bc7f-f200b834bcb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Flight + Hotel' or . = 'Flight + Hotel')]</value>
+      <webElementGuid>e73edd43-76bb-4357-b286-ab7589c61273</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

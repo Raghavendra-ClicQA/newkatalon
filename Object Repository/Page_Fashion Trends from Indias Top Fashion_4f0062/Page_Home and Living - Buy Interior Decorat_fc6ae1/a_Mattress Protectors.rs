@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mattress Protectors</name>
+   <tag></tag>
+   <elementGuidId>51413cf0-3511-4277-ab46-292dfae9e4af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='desktop-header-cnt']/div[2]/nav/div/div[4]/div/div/div/div/li/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2f3bfcfc-5dd1-4e17-9a6a-0cb54ecf0feb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/home-furnishing-menu?f=Categories%3AMattress%20Protector</value>
+      <webElementGuid>d3804de9-ebd9-46e5-8053-cb6a22bccd8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desktop-categoryLink</value>
+      <webElementGuid>7eab583b-a112-421b-8968-49e7da86c234</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-reactid</name>
+      <type>Main</type>
+      <value>511</value>
+      <webElementGuid>e7a27232-a036-40e7-b31c-0e79076efb28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mattress Protectors</value>
+      <webElementGuid>694e5dbe-17b9-489f-8926-beed39b0664b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desktop-header-cnt&quot;)/div[@class=&quot;desktop-bound&quot;]/nav[@class=&quot;desktop-navbar&quot;]/div[@class=&quot;desktop-navLinks&quot;]/div[@class=&quot;desktop-navContent&quot;]/div[@class=&quot;desktop-navLink&quot;]/div[@class=&quot;desktop-backdropStyle&quot;]/div[@class=&quot;desktop-paneContent&quot;]/div[@class=&quot;desktop-categoryContainer&quot;]/li[@class=&quot;desktop-oddColumnContent&quot;]/ul[@class=&quot;desktop-navBlock&quot;]/li[3]/a[@class=&quot;desktop-categoryLink&quot;]</value>
+      <webElementGuid>12d2fd9b-5c5a-4e4c-8862-5e25fbb8d17e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='desktop-header-cnt']/div[2]/nav/div/div[4]/div/div/div/div/li/ul/li[3]/a</value>
+      <webElementGuid>aded2a95-c728-4eb9-9598-71732e2976b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Mattress Protectors')]</value>
+      <webElementGuid>17e80a39-39bb-4670-878a-d21d703c90bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bed Runners'])[1]/following::a[1]</value>
+      <webElementGuid>ac040937-402c-46b6-88ed-4f9a13cf8d26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bed Linen &amp; Furnishing'])[1]/following::a[2]</value>
+      <webElementGuid>e16c3570-43cc-42f6-88ad-a22c4efd3a34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bedsheets'])[1]/preceding::a[1]</value>
+      <webElementGuid>8c7682bd-d587-4218-8526-045616dc3aa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bedding Sets'])[1]/preceding::a[2]</value>
+      <webElementGuid>d1ec8f36-c25c-4792-8df0-c81a2de0d9c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mattress Protectors']/parent::*</value>
+      <webElementGuid>8b73de2f-d607-40c8-b032-1d46055a56f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/home-furnishing-menu?f=Categories%3AMattress%20Protector')]</value>
+      <webElementGuid>4421ae34-fee3-4beb-8c74-e7763fe6dc0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/li/ul/li[3]/a</value>
+      <webElementGuid>8a8bf316-6db0-4ee5-98ee-3f662fcd574d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/home-furnishing-menu?f=Categories%3AMattress%20Protector' and (text() = 'Mattress Protectors' or . = 'Mattress Protectors')]</value>
+      <webElementGuid>ec837c49-2ab3-4916-8b44-4093707b91cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

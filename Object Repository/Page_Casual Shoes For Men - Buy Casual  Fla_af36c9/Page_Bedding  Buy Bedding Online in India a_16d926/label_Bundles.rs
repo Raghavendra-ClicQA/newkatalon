@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Bundles</name>
+   <tag></tag>
+   <elementGuidId>c09b794e-62c0-40d8-83fa-100390f0a763</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.atsa-filters > li > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='desktopSearchResults']/div/section/div/div[2]/ul/li/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e9560278-447d-44cc-a66f-91b01fa986fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bundles </value>
+      <webElementGuid>95b7c20e-5d29-4a62-977a-a164c35d9bbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desktopSearchResults&quot;)/div[@class=&quot;row-base&quot;]/section[@class=&quot;horizontal-filters-base&quot;]/div[1]/div[@class=&quot;atsa-base&quot;]/ul[@class=&quot;atsa-filters&quot;]/li[1]/label[1]</value>
+      <webElementGuid>d13444e5-f509-4666-9451-ad6ed8ce3f72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='desktopSearchResults']/div/section/div/div[2]/ul/li/label</value>
+      <webElementGuid>076a5b0c-7515-433a-aa1e-50fd807a3679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Rating'])[1]/following::label[1]</value>
+      <webElementGuid>8fd5f046-eca8-46f9-97a4-88ca5085b9c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price: Low to High'])[1]/following::label[2]</value>
+      <webElementGuid>8fc86bd4-07dc-4150-a61a-9466dcb59b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country of Origin'])[1]/preceding::label[1]</value>
+      <webElementGuid>9651d075-9346-4434-8279-b3f82afbc0a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/section/div/div[2]/ul/li/label</value>
+      <webElementGuid>b2dd78e4-a7f4-4e0b-b620-136c3fc3a56f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Bundles ' or . = 'Bundles ')]</value>
+      <webElementGuid>5d984fcc-029b-4dd8-b436-99b67572fd99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
